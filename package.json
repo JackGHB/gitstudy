@@ -1,0 +1,14 @@
+{
+  "name": "gitstudy",
+  "version": "1.0.0",
+  "description": "git学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "1111"
+  ],
+  "author": "songhaisheng",
+  "license": "ISC"
+}
